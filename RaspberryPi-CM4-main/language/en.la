@@ -1,0 +1,80 @@
+{
+    "MAIN":{
+        "PROGRAM":"Program",
+        "RC":"R.C",
+        "TRYDEMO":"Try demo",
+        "OPENING":"opening..."
+    },
+    "DEVICE":{
+        "DEVICEINFO":"DevicesInformation"
+    },
+    "EDUBLOCK":{
+        "NONET":"No net!"
+    },
+    "GROUP":{
+        "READY":"READY"
+    },
+    "OTA":{
+        "BURNING":"Burning"
+    },
+    "DOG_VISION_SHOW":{
+        "PRESSA":"Press A:Record",
+        "PRESSB":"Press B: End Record",
+        "PRESSC":"Press C: Quit",
+        "PRESSD":"Press D: Execute",
+        "ACTION":"ACTION",
+        "READY":"Action Group is Ready",
+        "EXECUTING":"Action Executing",
+        "DONE":"Action Done",
+        "MAX":"Maximum record of 12 sets"
+    },
+    "NETWORK":{
+        "NOQR":"No QR",
+        "SPACE":"QR has space",
+        "SUCCESS":"success"
+    },
+    "WIFISET":{
+        "NOW":"Current Country:",
+        "SET":"Select your country:",
+        "QUIT":"Quit",
+        "SAVED":"Success,Please restart the robot"
+    },
+    "VOLUME":{
+        "VOLUMe":"Volume",
+        "PERCENT":"Percent:",
+        "QUIT":"Quit",
+        "SAVED":"Success,Please restart the robot"
+    },
+    "LANGUAGE":{
+        "NOW":"Current language:",
+        "SET":"Language setting:",
+        "SAVED":"Success,Please restart the robot"
+    },
+    "DEMOEN":{
+        "SHOW":"Show",
+        "GROUP":"Group",
+        "MASK":"Mask",
+        "HANDS":"Hands",
+        "TEACH":"Teach",
+        "SEGMENT":"Segment",
+        "FACETRACK":"FaceTrack",
+        "POSE":"Pose",
+        "QRCODE":"QRCode",
+        "SPEECH":"Speech",
+        "COLOR":"Color",
+        "SOUND":"Sound",
+        "HEIGHT":"Height",
+        "YOLO":"Yolo",
+        "WIFISET":"5G",
+        "WAPSET":"Ssid",
+        "BURN":"Burn",
+        "NETWORK":"Network",
+        "VOLUME":"Volume",
+        "DEVICE":"Device",
+        "LANGUAGE":"Language",
+        "EXAMPLES":"EXAMPLES",
+        "OPENING":"OPEN...",
+        "FAIL":"FAIL",
+        "DEVICE":"Device"
+    }
+}

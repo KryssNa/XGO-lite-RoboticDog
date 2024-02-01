@@ -1,0 +1,80 @@
+{
+    "MAIN":{
+        "PROGRAM":"プログラム",
+        "RC":"リモコン",
+        "TRYDEMO":"サンプル",
+        "OPENING":"開ける"
+    },
+    "DEVICE":{
+        "DEVICEINFO":"デバイス情報"
+    },
+    "EDUBLOCK":{
+        "NONET":"ネットワークなし"
+    },
+    "GROUP":{
+        "READY":"準備をして"
+    },
+    "OTA":{
+        "BURNING":"燃える"
+    },
+    "DOG_VISION_SHOW":{
+        "PRESSA":"Aキー: 記録を開始する",
+        "PRESSB":"Bキー: 記録を終了する",
+        "PRESSC":"Cキー: 終了",
+        "PRESSD":"Dキー: 実行",
+        "ACTION":"動作",
+        "READY":"準備ができている",
+        "EXECUTING":" 実行",
+        "DONE":"完了",
+        "MAX":"12セットまでの最大記録数 "
+    },
+    "NETWORK":{
+        "NOQR":"QR いいえ",
+        "SPACE":"QR 空砲",
+        "SUCCESS":"継ぐ"
+    },
+    "WIFISET":{
+        "NOW":"現在の国 :",
+        "SET":"国を選択する:",
+        "QUIT":"終了",
+        "SAVED":"成功しました,再起動してください"
+    },
+    "VOLUME":{
+        "VOLUMe":"たいせき",
+        "PERCENT":"パーセント:",
+        "QUIT":"閉じる",
+        "SAVED":"成功しました,再起動してください"
+    },
+    "LANGUAGE":{
+        "NOW":"現の言語:",
+        "SET":"言語の設定:",
+        "SAVED":"成功しました,再起動してください"
+    },
+    "DEMOEN":{
+        "SHOW":"デモモード",
+        "GROUP":"クラスタ制御",
+        "MASK":"人面マスク",
+        "HANDS":"ジェスチャー",
+        "TEACH":"教える",
+        "SEGMENT":"背景分割",
+        "FACETRACK":"顔追跡",
+        "POSE":"骨識別",
+        "QRCODE":"QRコード",
+        "SPEECH":"音声識別",
+        "COLOR":"カラー",
+        "SOUND":"オーディオ",
+        "HEIGHT":"身長",
+        "YOLO":"Yolo",
+        "WIFISET":"5G",
+        "WAPSET":"SSID",
+        "BURN":"書き込み",
+        "NETWORK":"スキャン",
+        "VOLUME":"音量",
+        "DEVICE":"機器情報s",
+        "LANGUAGE":"言語",
+        "EXAMPLES":"サンプル",
+        "OPENING":"開ける...",
+        "FAIL":"失敗する",
+        "DEVICE":"デバイス"
+    }
+}
