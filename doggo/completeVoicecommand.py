@@ -11,6 +11,7 @@ from PIL import Image,ImageDraw,ImageFont
 from key import Button
 
 
+# to display on dog's display
 button=Button()
 dog=XGO("xgolite")
 #define colors
